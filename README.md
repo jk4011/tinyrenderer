@@ -1,6 +1,6 @@
 # TinyRenderer
 
- - [ ] 0. getting started
+ - [X] 0. getting started
  - [ ] 1. Bresenham’s Line Drawing Algorithm
  - [ ] 2. Triangle rasterization and back face culling
  - [ ] 3. Hidden faces removal (z buffer)
@@ -15,6 +15,13 @@
 
 
 ## 0. getting started
+
+pixel의 color를 바꾸는 함수 제공
+<img src="assets/red_pixel.png" width="100">
+
+좌표 평면
+<img src="assets/xy_axis.png" width="100">
+
 
 
 <!-- 1. Bresenham’s Line Drawing Algorithm -->
